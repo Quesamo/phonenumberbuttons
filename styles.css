@@ -1,0 +1,13 @@
+.numberButtons {
+    height: 10px;
+    width: 50px;
+}
+
+#startButton {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to right, grey, white);
+    overflow-y: scroll;
+}
